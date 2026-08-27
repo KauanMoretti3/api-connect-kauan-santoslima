@@ -1,6 +1,6 @@
 # API de Gerenciamento de Usuários
 
-## 1. Nome
+## 1. API REST
 
 **API de Gerenciamento de Usuários**
 
